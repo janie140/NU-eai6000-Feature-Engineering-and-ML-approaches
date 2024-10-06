@@ -1,0 +1,1 @@
+We analyze a dataset of Wine Quality with 11 features with the goal of predicting the quality as well as identifying the features most important to making the prediction. We will "rst go over some necessary steps, such as feature engineering and try out a few di#erent machine learning algorithms. 
